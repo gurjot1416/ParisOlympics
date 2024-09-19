@@ -1,9 +1,9 @@
 # ParisOlympics
 Analyzing Olympic data across athlete demographics, medal distribution, and country performance is challenging due to its complexity. This project solves that by creating interactive Power BI dashboards, allowing users to easily visualize and explore key insights such as age, gender, and medal trends, enabling data-driven decision-making.
 # Tech Stack Used : 
-Python
-Power BI Desktop
-Excel
+1. Python
+2. Power BI Desktop
+3. Excel
 
 # Dashboard 
 ![image](https://github.com/user-attachments/assets/9d42b508-99c5-47a1-9432-3c0c5e9efff5)
